@@ -16,6 +16,17 @@ margin-top:20px;
 }
 .button button{
     margin-top:20px;}
-/*         
+     
+
+#heading{
+    background-color: rgb(195, 236, 222);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    width: 100%;
+    justify-content: center;
+}
+
 
 
