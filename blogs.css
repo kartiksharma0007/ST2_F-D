@@ -1,0 +1,41 @@
+.blog{
+    text-align: center;
+ }
+ a{
+    display: inline-block;
+    margin-bottom: 10px;
+    text-align: center;
+ }
+ #container{
+    align-items: center;
+    margin-bottom: 10px;
+ }
+ #navbar{
+    
+   /* justify-content: center; */
+    text-align: center;
+    border: 1px solid blue;
+    /* padding: 0px; */
+    height: 20px;
+    margin-bottom: 15px;
+    font-size:22px;
+ }
+ #navbar2{
+    
+    /* justify-content: center; */
+     text-align: center;
+     border: 1px solid blue;
+     /* padding: 0px; */
+     height: 20px;
+     font-size:22px;
+
+ }
+ .para>hr{
+    height: 3px;
+background: rgb(211, 18, 18);
+
+}
+body{
+    margin-left:100px;
+    margin-right: 100px;;
+}
