@@ -1,0 +1,21 @@
+.data{
+    display:flex;
+margin-top:20px;
+      flex-wrap: wrap;
+    justify-content:center;
+    }
+    .image_data{
+
+        width:306px;
+        margin-left:10px;
+        margin-bottom:10px;
+    }
+.image_data img{
+    width:300px;
+    height:300px;
+}
+.button button{
+    margin-top:20px;}
+/*         
+
+
